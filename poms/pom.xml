@@ -13,6 +13,7 @@
     <module>jobs/process/job_to_test_gitignore_file_0.1</module>
     <module>jobs/process/copy_of_job_to_test_gitignore_file_0.1</module>
     <module>jobs/process/copy_of_copy_of_job_to_test_gitignore_file_0.1</module>
+    <module>jobs/process/copy_of_copy_of_copy_of_job_to_test_gitignore_file_0.1</module>
   </modules>
   <properties>
     <talend.project.name>GIT_TEST</talend.project.name>

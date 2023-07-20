@@ -5,7 +5,7 @@
 code/routines/system/*.*
 temp/
 sqlPatterns/
-.settings
+.settings/*
 poms/
 talend.project
 .project
